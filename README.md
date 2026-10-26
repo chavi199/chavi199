@@ -1,8 +1,12 @@
-# Chavi Podolsky
+<h1 align="center">Chavi Podolsky</h1>
 
-סטודנטית למדעי המחשב. Full-stack (React, TypeScript, Node, MongoDB) ו-.NET / C#.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Professional+Developer;Full-Stack+Developer;Computer+Science+Student;Always+Learning" alt="Professional Developer, Full-Stack Developer, Computer Science Student, Always Learning" />
+</p>
 
-Computer science student. Full-stack (React, TypeScript, Node, MongoDB) and .NET / C#.
+<p align="center">
+  סטודנטית למדעי המחשב. Full-stack (React, TypeScript, Node, MongoDB) ו-.NET / C#.
+</p>
 
 ## Projects
 
@@ -17,6 +21,12 @@ A learning platform that generates lessons with a language model. React, TypeScr
 אפליקציית חנות ב-.NET בשלוש שכבות: קופה, לקוחות, מוצרים, הזמנות ומבצעים.
 
 A three-layer .NET store application for a cashier, customers, products, orders, and sales.
+
+### [inquiry-manager](https://github.com/chavi199/inquiry-manager)
+
+מערכת Java של שרת ולקוח לניהול פניות.
+
+A Java client-server system for managing customer inquiries.
 
 ### [recipe-app](https://github.com/chavi199/recipe-app)
 
